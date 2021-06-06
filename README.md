@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 카카오페이의 사전과제 (데이터서비스)
 
 ## 개발 프레임워크
@@ -55,7 +54,3 @@
 	GET /statistics?groupId={GROUP_ID}
 	    - 기능 : 그룹ID에 따른 해당하는 통계정보 리턴
 		
-=======
-# kakaosubject
-Rest API
->>>>>>> 2199bd999d666b5bca34cc1ec9e316caac32ad18
